@@ -1,0 +1,132 @@
+{
+    "access_token": "",
+    "account_list": [],
+    "adult": false,
+    "arcio": "dev",
+    "auth": false,
+    "build_interval": 360,
+    "build_type": "full",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1JzlgSLFuprphWaW-fD33ME2-6_-X_6-l",
+            "language": "es",
+            "name": "Peliculas Estreno",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1AUjQQmqOx3SWqoO5QQ3XvZRlpftI40OF",
+            "language": "es",
+            "name": "Peliculas",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1duHyStAylZ6ftGtXPR4eCgdeBhMpDDui",
+            "language": "es",
+            "name": "Peliculas Calidad Superior",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1JJeFOJu3aJNZMK2eThf45-QEmaCdWg8m",
+            "language": "es",
+            "name": "Peliculas 4K",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1s8g1PsiEWzb4YEkLkzAlZ2SyHJoBpT0F",
+            "language": "es",
+            "name": "Peliculas 60fps",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1VBqtdrVnjCyM4cx-kxePd61Tnr1QSd2j",
+            "language": "es",
+            "name": "Peliculas Pedidas",
+            "type": "Movies"
+        }
+    ],
+    "client_id": "",
+    "client_secret": "",
+    "cloudflare": "https://pelis-series.artutos-mirror.workers.dev",
+    "fetch_assets": false,
+    "prefer_mkv": false,
+    "prefer_mp4": "false",
+    "refresh_token": "",
+    "remove_duplicates": false,
+    "remove_no_poster": true,
+    "secret_key": "artutosconfig",
+    "service_accounts": [
+        {
+            "type": "service_account",
+            "project_id": "backupsas",
+            "private_key_id": "69a59701f8abfc1d92c4287560a90562795b8d82",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCLcr3EEeQouMVj\n4CsHolFb2fb0/spjdHsTTcbDbxQ2/8W3aeeRpqp7BoghtfsCJyv8Zd9WyLsLOnhr\nUFf1q24MWGNznmriA+tIPHV8Y/+bbePhfxBgPktcqjKMBcpLyEGp2R1mTNQg38rX\nUhGecD+j+/tEOBM1tp/g1owMaxvyRAJYR8xXC+TmmMxPk+ZWLFq95mDRCQzqA9I0\nDACo7il6Hd6gfmDRFnsk/EDxdDwry++hssQEtQk2vkfciFFgc6G+M+rvQOUncQFk\nkyJm/Teuq3CoNysdVGNd2f1GXDsvnPyPQnI5wk11BNmxT/Th3EkIU1aFNCAlkuoZ\nJy0Q6SxhAgMBAAECggEAA5bcG1M+EQ3Dd+kF1oQXLcLwHDmALlvpzJMGjBJ8fddq\nyIgrb5hvgCvoflyjpbgqJcyd+WsAhH8YaSO35eEIG719LtVLqT5iVJlIyV8+DatA\nD7Zwbpe/4xZW53uBK97vUL6/xtmwppl4DD+GqFI5kyAZ5TU/ylTFa/k9wNaTcTKE\n9gA8tLTMl6zeIhbizEixxniON9Vg+FXBYtBwZVuKVPnG/5guU6vOFui3ORPiVQAj\n7jAFLfHLFo2ViDIRz3PCC2aAktHKBKVSZ8mkecEq/X+LjoOkpXkzG/wb/xE+t1f8\n6EEpR64pTZwTYLdt9GP4qX1sODJbZuCwZ5vsN1kb6QKBgQDAfML1SoizgdQ6+OVU\nVsWLkc2wl4w1SDYTjW/yY4kRZ8ZIF5mmR+HSMBWc4mC5E4rkVD3pTNolgO8AMfhG\nTTV+aFtMVCVstqZZQ+hwxsFyIOhNppIQGcDCP6UAyh0E4KQu+wBwO13lbxamnFH0\nVdkD0wm6/ds7zoHEKVt/hzwCKQKBgQC5dc9I6lPpjuMjc7P+bF3KHr+OwmX5sEzs\nh1XuA9gjIPOQLibZ2+A5E7zeLSV4rcLAn/blFMYwM5evWgni+CSpbdrmYJ/sstTa\n1jPJtuZZwpG/4RTB6cgp5szmmudbZnuQIvCQe309lYhe27tpFHTHXfv4MqwsmV9M\ntDywjQXPeQKBgQCAipBS5+w0G84Td6UF1lBjbQG0HPAHoOpj0j7g2jFtiyRxfjkg\nPr6B85RrSQ2YaoGFCvCxPJ4tD1YLhlMq92JywNO/PC4l1C9wSxYNQd1rDqizOjou\nQFRmI8RXq6EHYdCigwH+8NY6Yh35M0jTZwTeNe84jU/7N2OXEJtGpZOgSQKBgHRE\ndUUjEqQznhZVrRvt2AakrDbVjJSygCcw2SA0bMXpHIjhRh4CiFmAFEG9T+aOGLAm\nGOSY137UeV3HNreCFYnagwc2wEvl+SeQbjshXNwc7L68XwUKiSArv30605wrbX95\nSBNsN6HqIupFGwLPfj6WnyaErgfvxx0RSZLtdh0RAoGBAKFRKHh6H+EwoT62ExfH\nDJ2TTM0k/0WWIitUVbIm7f1ozzRvFP/L4sRrtBx6UYF0X0M25blTw2M3dOyxFsom\ncvKaXjlbUnJhA6p+mQbtR1JSgIks1Myb4y51Yg+1kzlJmUlxDQcJV1HDN7GzuQdl\ntE/zYU2TZPCE/HADEMqswyJk\n-----END PRIVATE KEY-----\n",
+            "client_email": "artutossasback-35-15636534@backupsas.iam.gserviceaccount.com",
+            "client_id": "101568347537510758218",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artutossasback-35-15636534%40backupsas.iam.gserviceaccount.com",
+            "universe_domain": "googleapis.com"
+        },
+        {
+            "type": "service_account",
+            "project_id": "backupsas",
+            "private_key_id": "1d03d3c8edbdcf10b977812bfec5203976464efc",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZJ7M6cr52jNbS\n4UUh/EPDuinopVlFs0Xvktwa1TfjaVKApLu79QcwgcjDZP7yR07VGZz6cXk0860m\neMypBBrGXFxqdKYTmQBRFocRIKoPeGPFStlbXRW3nGb6lZOpfE6ODrct8rctMCkc\nDgfSw8dDzbZZFzt7u0gg10YT8EI7pWKOlu5S6TTec0D2Qa/RNb8bT/2Yc87Mw9gb\nNghBHnaWySveMe6+U9wxB6O2DJv/nx4ZvHWER0zPVsjdq9FNhwT75pZuF65qrXnZ\nG7GvnMPEVNeuLsNN+Q1XXloV+OWlpFOB+kNU8ysaj3uoch5y6YIPOw9DPS4aMWF0\nGQtgY38/AgMBAAECggEAGaGjRSze40g+y5wXzdBCJweI6/6AKkIOekHBxFvatpxx\nykXHhXVEdsHBr7G/WRzF/LQEqYVEG7CMUdv1pHOjZ38dmFNdV/pLK0bx49Prohsr\n12Dnb3rsn4X1VgqiY8MCApRD49SzA0UEHEXc2VEakCZlVhOlSNfXAmgEumGDNCf/\nP1ahw0Ct6rvYUZYYbp1ER2iK/vvgQ4fCdrlkdAAe99ukfJpJtP9CZT43nlpKIa7t\nBbsajC76ic6ZHuZ4lVMyMbbimkvdsHyeB0FINUQrNfgU/k3gHkgW3sbpLsTp+JEo\niMIBsNePOUzMnws8qGml4jB183I4Nslzt1NUB2s6QQKBgQDMS/Av3JmyduKTQ/SH\nykhx7SEr1QUxsih+ppnnv9lQchvDUFIr3PtpKwMhPOo3ZUj7EDPKt9uSDhtvL3y2\ny/iPTjzKVu+61B1QqslxbTxGp3o5FfVpzVOdF687SJ+isbm8fmWcHUV3Jd7/NcDi\nUaxdoAbbEtv76VjBT07XAbLJ/QKBgQC/6mFBr5QCmt+XiUJHeUGiN8ew6S1HCZ1D\ndRR9jgwg6lu1St5OkTfJX0ID9CQ/ua587hUT8Pu5be0LUHUjMYzKVkAyY2An9M4w\nL6T7lA9wXZIZ3u0EEnlASXIP6xUW8coS9GWKlQMI5Ui3LTvimnaBtRPlrFxxR8ZE\noVuVxrak6wKBgG32NcrdN1Eq0lunyRfJ1mKT2zXni8sq9Mbuz4pA5ix5rt3a/s+j\nOyNpRl7+labJepXAK9BiU+nyc+vNqJgPg7NGzkuurYxnHXxM4O6PeFEjVhMh8Z1I\nKkg09lm3hk0g0jNV6UU1MC2okbXWbgKjKV6fgvEp3oRiHia2lF4ACQbVAoGAdxZe\ncV8dLhyiYCr5KNbSZnHMhTe8M9eAcaqGI37wgcBLVgz2M7Si9F8a3M8zayOyZa1r\nAOvJl//hVuL/PO5zWd75iQrnUQP0qiv2aXIvvl8h2NHfK2a3PLAWilAqzwkMhoSH\nOd5LesqkO55jCbMllEkj5qH03wpVuqKR7TfYgC8CgYEAtGGQDk4W3vybp9od6YJR\nZ+xFOoDQGBfbpGkSKspxg8NuBhaNpk02lEZOfO6Ek74nzrJTqYcJm7enAiUmTd0b\nFAKFmKyAG8GDLMMdd8zc1FxK/5eCk+KizieE4a8LWrNGtB2rI1MQpcF2wy3LRXBA\nLu6yXl6vy3rNgQixoNnAsIw=\n-----END PRIVATE KEY-----\n",
+            "client_email": "artutossasback-62-61312254@backupsas.iam.gserviceaccount.com",
+            "client_id": "103700425782479863392",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artutossasback-62-61312254%40backupsas.iam.gserviceaccount.com",
+            "universe_domain": "googleapis.com"
+        },
+        {
+            "type": "service_account",
+            "project_id": "backupsas",
+            "private_key_id": "40f4d09c427e2c7e7c57b77143241a38f23cdce6",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYjUgXb56mw9P2\nZUYXVwK+ENX5csovphcYZkDXEBEzK08WHPf2jghpAdbWRYCYMX2lbqHpVAd6N9if\nM1DKxIr2qnhbdppdWhTtH9o7/qFlTxZycvWFN11ffXT+kCw0HB4gJpmBFXtmgykN\nowf87gMbWyuv8NJdzHEuaM52yJQoGTLffLS9gR8ZDTqEny7Z/SFg/XiRd51YWcNv\nUz6hDlO8s8NKwx66okDxO5WahwdZKRR/2Hrzd9lkYT/FiBqnPwaUk3AFl5SxafBL\nozfviQ5Nw/ZlW5Gxh/Gv8dZoEaJDJIgPATc6/rzFRG83X2Z7/UpwRuaJQ2yxPRLw\nWCBqqbOfAgMBAAECgf8T9mj4qCKasAWMuLPzWe+B77IQcnUCxzk+eCMEAZY+m+w9\neIz6NpvjIdp7L50kTVWj0FZfsh9IXwZ5zr1Dy3Rj0urtDRgmHyOd5A0qzKdSGodV\ncrWuORB+7mvg4/zk1Mkca/Cqc6UyRPeaUTs6XesKKWQOIfVlUNt+tzhNUvIQTQgg\nctsZYPjoCoK2Xfl3ssSVf0x/KfixGV2/x+Ai4Fnbv7AkFpzEDz3dHIQWv7HCL7G7\nsfqAj594CJ2ljCqTVIb6wFacwEgSfWjKFJZO8bazAMxDOlnQDUw8n258Nr6ZE4E3\nAmClHcLn9BLZyqIahw5tCHpGNd0XU0cHv88d0n0CgYEAyVQmav/vvLrCR9jpccyu\nxbm+6LxJm7nVHF4p23XuA/iTmuJFSMiLE0CpPrlqzXPjyt2/35EeK2ryZ8tdNbRT\nOIL4GVjm1Sg03nNqp+qP7qq/hFLx3KVqPsLxLnCqEcGC0tDpHtc1CywVTAgTXbAy\nWVNtEsuNFkGaJCNdYMi34uMCgYEAwfpK9VDKJuAZ6RehNMNje+JaNC1YR39pdo4g\nyveHkr+Kybpwb+VQbzs/MvYDIuoA30NrDICdf+Uhx1DMzRVWATHdr5jnDU3R3gn4\njQxgHopvc9y5FEJZ/SMaHZbFVM9rbj38pJWBz/61Bh05DWsKrLEun7h0VCHGUz9m\n9iasPRUCgYEAvnmy70C9XF2FOdxq4JO6Nq+Jgz/AlGi4y2H7T/q++VrQq5Sv4DB8\nA/cFKKbb+Q1P0rsBsU7msEU6miC5SvoUUj7242RM4BZuDpg7rCoriq5ZC6Q913dY\nkZB2Bm3pOWtPjozAQcFyGePXMlvhlp4AxKo9Y67ZCNmAL/iVe9/quekCgYEArej+\nLWSKaUJAWLfjww9ucRJmNyN0Y127KxyQEAjO1uW9w9DQn7GjZKZkqgbglvvfXkvu\nfN4O1yySFUW+6Bu56QZRL+7RMB9WClE8MxEmWBtbgzAgCybV0VsYPfD/6GKyebs/\neDvGj7lXiSzICtyuTFfqai6QtSE200ojwIq5n2UCgYEAmDCyFaxGAhgCqzmu71vh\n2U4TnMWW3nnoY5u2nlt7F512AJWJGbJ92QbezXPj/lBTD+oOc6r88spp0yDLMhRy\nx+M/jrVjTI7s4ZT7kr6l2rLVG1ljN1CoIoT7qY19csHPhapW6SbWeQiRMKoFWKxq\nCrdELgqE+/dsRlsA6RCthQU=\n-----END PRIVATE KEY-----\n",
+            "client_email": "artutossasback-16-23-13503@backupsas.iam.gserviceaccount.com",
+            "client_id": "101035483416725833181",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artutossasback-16-23-13503%40backupsas.iam.gserviceaccount.com",
+            "universe_domain": "googleapis.com"
+        },
+        {
+            "type": "service_account",
+            "project_id": "backupsas",
+            "private_key_id": "b98ff73356dd0bc9bf39370c77924e2106c51a89",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7pB5mv1x8FZN2\n0tS9i44e8DFfCE/ps+N48woVxo008sTpvyB0fx6XoUoc4jbldRlJb/jmRRwLjNI1\n3HS7KJ35musxM9vul1QI24NidxVKwqE23ge29w3uN2d0nD3kzK8v9/xIg7q22bVC\nEzGa6dtEZyLF3T5ZcDx2MKRXP2cOeTECOAJTwcJHX657LenLLwXqJg9A476zHoa4\nXdFjKPDqJ+2zj1gznR7SNEqo1nXc7VCKWy7ciSNok0y2GuvH3SGR3pN4fmlMEKYv\n3s6RvHunVgN65cyvtWS35D/mRxQuxQAR21gME7ICFWFSV4VgAkXFP9OOvMasaFFM\ncFhm5LZpAgMBAAECggEATvw3u+KDiMwARf1bheovygArmChEk0ig0THlJeNtX0Nt\n9kL443D7LLK9IslqeE5BdbNHn46pzobZmciR7pKbZQ18QTrmMlnLCut0M8eS0+R3\nvkPaFX+LgqIZz3FRcHVkrRmDPfcNapjb/tNbhy03mmSbs5R9AWMIYGv7Uaqjs+g/\nZNswiJ+Y/rZcFo0n67u8TCY7LhZS2wJlT/khqMAEsf+QDEiiiz86cSaZHYhkvu9x\nkhACJr7DC/C2oVUgBcOCgr/m+2Pp7jd3L1NdNb38b2tLDXZvFbI0Id1TRJr7um1j\nQ2aW+O0W0KEtvEj412NXeEXjuY/+YAuvd2wZcXULzQKBgQD9tL0PaDdvnzPllswD\nGR0D7WXpjoTAK/G1Fk21ndvFQxJ/u3WvbcXqFU7SQL/TlfcHwKODXJuC2WZ24mNp\n0E2DRTub9VVfbSnCTQl2Qc9SR1Vtbmaik51aDuJ+5k4ruUmlXbgym386bJrk66WX\ndjMmflGzsGHfpTs8UeJxZIEoAwKBgQC9VnUnnLUwg48napMK0DbPlxOwi+SC9x05\n105QXozJydfbrPJVVv8Qup9ZpwASgNQmFhpUfsdB5kSFaI6GbB5pj2tDWlb4YvCH\nMVgXaKVTV+5y+6Pl2ykzkuq2Cooh/UyIGiHX9797KMHVnLlve56si8hPQYe7wZr6\nIadiwjlqIwKBgFkmSo0AbQJvKfhSLewkxfpcUERqzSEOEAg3ByV7i/9cG0MBJ1B2\nvWYNCL5+/CkoeD6kJZECWK75H7VExfQnuyUWjeS2p8I5hMP++AUzCNv7rvweIDie\nsFs2AcbfvLZGjKdsME6wL1vjT+aDG5QGd+Dd4G3I3AuPbyo6B90amPvrAoGBAIrD\nNYN9jzFqCd2qdu/C35jOsWh/bk8piqrciBHQ6b/uBRyDqOswoikBjU3oXd4xusnb\nAxsP+zrp5ygbE/Gihbt5l/Q53mmWIZADcvtc/2WQmTp+AIWyVITu1MPr/4afnJpX\nBJzCfvxlR4IlpaX15LmyjHDBpxfM8acGSSXREMEfAoGBALp7VmBcKvx4nZFbOt2t\nBct+h4G2izB0ug4oVh3RLb0UBT6RH/BCdNIRz4hD669tp6/nTzfZWXqBv9pNGOkh\nwzpKMFV/9kYbpzp9hkdZLCj4Z386zPBZ73PqG8FUCpXa/yW2VFYnHYCavjInB6dg\n18FlwPf1oB5UibytrSUijwhb\n-----END PRIVATE KEY-----\n",
+            "client_email": "artutossasback-62-14152352@backupsas.iam.gserviceaccount.com",
+            "client_id": "102115898893191068676",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artutossasback-62-14152352%40backupsas.iam.gserviceaccount.com",
+            "universe_domain": "googleapis.com"
+        }
+    ],
+    "signup": false,
+    "subtitles": false,
+    "tmdb_api_key": "f29ed2e5713682f185568e22e8e2b0ae",
+    "token_expiry": "2023-05-26 00:25:02.652469",
+    "transcoded": true,
+    "ui_config": {
+        "custom_button": {},
+        "title": "RepelisPlus"
+    }
+}

@@ -1,0 +1,18 @@
+# fly.toml app configuration file generated for p-artutos on 2023-06-23T23:26:28-06:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "p-artutos"
+primary_region = "gdl"
+
+[http_service]
+  internal_port = 31145
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[services]]
+  protocol = ""
+  internal_port = 31145
